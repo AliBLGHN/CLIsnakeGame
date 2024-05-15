@@ -1,2 +1,2 @@
 # snakeGame
-CLI mini snake game
+mini CLI snake game
